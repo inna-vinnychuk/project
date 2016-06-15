@@ -1,0 +1,8 @@
+D:\WpfApplication1\UnitTest\bin\Debug\UnitTest.dll
+D:\WpfApplication1\UnitTest\bin\Debug\UnitTest.pdb
+D:\WpfApplication1\UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\WpfApplication1\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+D:\WpfApplication1\UnitTest\obj\Debug\UnitTest.dll
+D:\WpfApplication1\UnitTest\obj\Debug\UnitTest.pdb
+D:\WpfApplication1\UnitTest\bin\Debug\WpfApplication1.exe
+D:\WpfApplication1\UnitTest\bin\Debug\WpfApplication1.pdb
